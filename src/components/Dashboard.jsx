@@ -44,11 +44,11 @@ function App() {
       <div className="bg-white p-8 rounded shadow-md w-full max-w-md z-10">
         <h2 className="text-2xl font-bold mb-4 text-center">Internal Dashboard</h2>
         <div className="mb-4">
-          <label htmlFor="imageUrl" className="block text-gray-700">Image URL:</label>
+          <label htmlFor="imageUrl" className="block text-gray-700">Banner URL:</label>
           <input
             type="text"
             id="imageUrl"
-            placeholder="Enter image URL"
+            placeholder="Enter Banner URL"
             className="mt-2 p-2 border border-gray-300 rounded w-full"
           />
         </div>
