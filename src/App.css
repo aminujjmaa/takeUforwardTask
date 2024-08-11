@@ -1,0 +1,14 @@
+.banner {
+  background-color: #ffeb3b;
+  padding: 10px;
+  text-align: center;
+}
+
+.timer {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.dashboard {
+  margin-top: 20px;
+}
